@@ -26,7 +26,7 @@ DATABASE_URL="postgresql://docker:docker@localhost:5432/polls?schema=public"
 1. Inicie os contêineres Docker:
 
 ```bash
-docker-compose uu -d
+docker-compose up -d
 ```
 
 2. Inicie o servidor:
